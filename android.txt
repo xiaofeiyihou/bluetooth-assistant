@@ -1,0 +1,2 @@
+# Android权限配置
+android.permissions = android.permission.BLUETOOTH, android.permission.BLUETOOTH_ADMIN, android.permission.ACCESS_FINE_LOCATION, android.permission.VIBRATE
